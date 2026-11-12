@@ -1,6 +1,8 @@
-# Repository-Zweck und Zuständigkeit
+# Repository-Profil: Inhalt, Ziel, Eigentümer und Zuständigkeit
 
 - **Repository:** `ReneBerger/TiddlyWiki`
+- **GitHub-Eigentümer:** [ReneBerger](https://github.com/ReneBerger) (Repository-Owner; fachlicher Projektverantwortlicher nicht separat verifiziert)
+- **Ziel:** TiddlyWiki-bezogene Inhalte verwalten; konkretes Ziel ungeprüft.
 - **URL:** https://github.com/ReneBerger/TiddlyWiki
 - **Kurzbeschreibung:** TiddlyWiki-bezogenes Repository
 - **Zuständigkeit / SSOT:** Wiki-Anwendung bzw. Wiki-Dateien; konkreter Inhalt nicht verifiziert
